@@ -1,0 +1,4 @@
+# Here the data paths are stored
+paths:
+  raw_data_folder: "data/raw"
+  raw_data_filename: "raw_alzheimers_data.csv"

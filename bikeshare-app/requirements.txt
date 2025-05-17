@@ -1,0 +1,9 @@
+numpy
+pip
+missingno 
+pandas
+matplotlib
+scikit-learn
+ipykernel
+streamlit
+xgboost
